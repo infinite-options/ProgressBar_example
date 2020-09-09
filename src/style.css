@@ -1,0 +1,12 @@
+.container1 {
+  width: 100%;
+}
+.progressbar1 {
+  content: "";
+  background-color: blue;
+}
+.progressbar1 li {
+  list-style-type: none;
+  float: left;
+  width: 33.33%;
+}
